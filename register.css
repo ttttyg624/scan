@@ -1,0 +1,9 @@
+.form-left {
+    float: left;
+    width: 48%;
+}
+
+.form-right {
+    float: right;
+    width: 48%;
+}

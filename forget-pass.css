@@ -1,0 +1,12 @@
+form {
+    width: 500px;
+}
+.plain-link {
+    text-decoration: none;
+    color: rgb(0, 128, 255);
+    cursor: pointer;
+}
+#text-center {
+    text-align: left;
+    margin: 10px;
+}

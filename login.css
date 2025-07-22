@@ -1,0 +1,16 @@
+#forget-pass {
+    text-align: right;
+    font-size: 13px;
+}
+#register {
+    text-align: left;
+    font-size: 16px;
+}
+.plain-link {
+    text-decoration: none;
+    color: rgb(0, 128, 255);
+    cursor: pointer ;
+}
+form {
+    width: 400px;
+}
